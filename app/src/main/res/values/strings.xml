@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EvidPlayer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_category">Category</string>
+    <string name="nav_upload">Upload Video</string>
+    <string name="camera_roll">Camera Roll</string>
+    <string name="upload_local">Upload From Local File</string>
 </resources>
